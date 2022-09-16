@@ -1,4 +1,4 @@
-# "DIY - Remote control car"  :racing_car:	:video_game:
+# "DIY - Remote Control Car"  :racing_car:	:video_game:
 
 Do it yourself remote controll.
 
