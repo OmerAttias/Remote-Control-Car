@@ -1,5 +1,5 @@
 //4WD remot control car project
-//buil by: tomer misk, omer attias and david hadad
+//buil by: omer attias and david hadad
 //date: september 2020
 
 #include <VirtualWire.h>
