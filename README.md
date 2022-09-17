@@ -1,7 +1,7 @@
 # "DIY - Remote Control Car"  :racing_car:	:video_game:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/101269937/190866574-cd7b8c47-775c-45e2-beeb-288c1f90d9d9.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/101269937/190866574-cd7b8c47-775c-45e2-beeb-288c1f90d9d9.jpg" width="150" height="300">
 </p>
 
 
