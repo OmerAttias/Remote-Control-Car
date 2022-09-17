@@ -43,7 +43,7 @@
 <img src="https://user-images.githubusercontent.com/101269937/190865282-5d1aefe4-1ba8-49e7-9dad-6af24d880675.jpg" width="500" height="300">
 </p>
 
-## "Electronic  Sketch - Interior View:
+## "Electronic Sketch - Interior Review:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/101269937/190866483-d57c31e0-4e37-4cff-8f54-919c5dc68181.jpg" width="500" height="300">
