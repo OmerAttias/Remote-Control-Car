@@ -1,5 +1,7 @@
 # "DIY - Remote Control Car"  :racing_car:	:video_game:
 
+## "Description"
+
 - An easy electronic mini project for Arduino programmers to get to know the embedded software engineering world.
 
 - A self remote control car using arduino. The car will be controlled by an RF based remote. It has self prevent Collision system with objects based on ultrasonic sensor.  
