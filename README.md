@@ -16,7 +16,7 @@
   1. Arduino UNO
   2. X2 Rechargeable batteries(3.7V)
   3. X2 H-BRIDGE L293D
-  4. 4  DC motors
+  4. X4  DC motors
   5. X2 RF module (Transmitter and receiver)
   6. Ultrasonic sensor
   7. X2 batteries(1.5V)
