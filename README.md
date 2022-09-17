@@ -23,13 +23,13 @@ An easy electronic mini project for Arduino programmers to get to know the embed
 ## "Functional review":
    
 <p align="center">
-<img src="https://user-images.githubusercontent.com/101269937/190865251-b9836f34-cd67-4d76-ac5c-e8a69d2f3e1c.jpg" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/101269937/190865251-b9836f34-cd67-4d76-ac5c-e8a69d2f3e1c.jpg" width="400" height="300">
 </p>
 
 ## "Electric prescription system":
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/101269937/190865282-5d1aefe4-1ba8-49e7-9dad-6af24d880675.jpg" width="550" height="400">
+<img src="https://user-images.githubusercontent.com/101269937/190865282-5d1aefe4-1ba8-49e7-9dad-6af24d880675.jpg" width="400" height="300">
 </p>
 
 
