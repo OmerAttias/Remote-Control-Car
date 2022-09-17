@@ -1,8 +1,10 @@
 # "DIY - Remote Control Car"  :racing_car:	:video_game:
 
-Do it yourself remote controll.
-
 An easy electronic mini project to get to know the embedded software engineering world.
+
+>personally i prefered to buy a car package which including all the crucial component, Visit the purchase site https://www.aliexpress.com/item/32864937005.html?spm=a2g0o.detail.1000014.16.13183dc6ePUnYa&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40000.303897.0&scm_id=1007.40000.303897.0&scm-url=1007.40000.303897.0&pvid=a9dfd396-c832-4fd8-8377-291fd796a410&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40000.303897.0,pvid:a9dfd396-c832-4fd8-8377-291fd796a410,tpp_buckets:668%232846%238112%23568&pdp_ext_f=%7B%22sku_id%22%3A%2265459417337%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=2%40dis%21ILS%2191.41%2186.83%21%21%21%21%21%402101d1ae16633628333921523ebd81%2165459417337%21rec
+
+**For those of you who don't want to all you is the following components:**
 
 ## crucial components:
 
