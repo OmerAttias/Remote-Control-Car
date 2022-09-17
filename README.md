@@ -20,5 +20,8 @@ An easy electronic mini project for Arduino programmers to get to know the embed
   1. Leds
   2. Buzzer
 
-## 
+## "Functional review"
    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/101269937/190865251-b9836f34-cd67-4d76-ac5c-e8a69d2f3e1c.jpg" width="250" height="200">
+</p>
